@@ -1,0 +1,5 @@
+DOCUMENTAÇÃO DO TESTE TÉCNICO
+ TecnicalCase
+
+1-	Instalação do projeto utilizando, e instalação de kits iniciais, como o bootstrap, laravel Breeze para autenticação.
+2-  instalação de validador de cpf, para verificar cpf do cliente.
